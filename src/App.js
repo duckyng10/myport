@@ -24,6 +24,7 @@ class App extends Component{
 			</div>
 		)
 	}
+	
 	constructor(props){
 		super(props);
 		this.state = {
